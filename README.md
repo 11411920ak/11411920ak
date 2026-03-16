@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/ankit-kumar-83b14a2b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4db6ac?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="ankitkumar109251@gmail.com">
+  <a href="https://ankitkumar109251@gmail.com">
     <img src="https://img.shields.io/badge/Email-4db6ac?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/11411920ak">
