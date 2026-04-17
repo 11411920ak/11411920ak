@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <span style="color:#4db6ac;">Ankit Kumar</span> 👋</h1>
 <p align="center">
   <b>Turning ideas into scalable web experiences.</b><br/>
-  <sub>MERN Stack Developer | AI + Web Innovator | B.Tech CSE</sub>
+  <sub> AI + Web Innovator | B.Tech CSE</sub>
 </p>
 
 ---
