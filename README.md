@@ -28,6 +28,25 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=11411920ak&show_icons=true&hide_border=true&theme=tokyonight&title_color=4db6ac&icon_color=4db6ac&text_color=c9d1d9&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11411920ak&layout=compact&hide_border=true&theme=tokyonight&title_color=4db6ac&text_color=c9d1d9&bg_color=0d1117" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=11411920ak&hide_border=true&theme=tokyonight&background=0D1117&ring=4DB6AC&fire=4DB6AC&currStreakLabel=4DB6AC" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=11411920ak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4DB6AC&line=4DB6AC&point=ffffff" width="90%"/>
+
+</div>
+
+---
+
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE student at Dronacharya Group of Institutions (2023–2027)
@@ -68,25 +87,6 @@
   <img src="https://img.shields.io/badge/Socket.io-4DB6AC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Razorpay-4DB6AC?style=for-the-badge"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=11411920ak&show_icons=true&hide_border=true&theme=tokyonight&title_color=4db6ac&icon_color=4db6ac&text_color=c9d1d9&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11411920ak&layout=compact&hide_border=true&theme=tokyonight&title_color=4db6ac&text_color=c9d1d9&bg_color=0d1117" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=11411920ak&hide_border=true&theme=tokyonight&background=0D1117&ring=4DB6AC&fire=4DB6AC&currStreakLabel=4DB6AC" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=11411920ak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4DB6AC&line=4DB6AC&point=ffffff" width="90%"/>
-
-</div>
 
 ---
 
@@ -182,25 +182,6 @@ MERN-stack marketplace connecting local workers and customers, with real-time up
 | Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle University | Oct 2025 |
 | TCS iON Career Edge – Young Professional | Tata Consultancy Services | Feb 2026 |
 | GenAI Powered Data Analytics Job Simulation | Tata Group via Forage | Sep 2025 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=11411920ak&show_icons=true&hide_border=true&theme=tokyonight&title_color=4db6ac&icon_color=4db6ac&text_color=c9d1d9&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11411920ak&layout=compact&hide_border=true&theme=tokyonight&title_color=4db6ac&text_color=c9d1d9&bg_color=0d1117" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=11411920ak&hide_border=true&theme=tokyonight&background=0D1117&ring=4DB6AC&fire=4DB6AC&currStreakLabel=4DB6AC" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=11411920ak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4DB6AC&line=4DB6AC&point=ffffff" width="90%"/>
-
-</div>
 
 ---
 
